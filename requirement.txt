@@ -1,7 +1,0 @@
-yfinance
-groq
-streamlit
-plotly
-pandas
-ta
-numpy
